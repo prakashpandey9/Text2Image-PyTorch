@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Text to Image Synthesis using Skip-thought Vectors
 
 ## Description
@@ -86,7 +85,3 @@ Implementation of the same using an autoencoder for sentence embedding
 
 ## License
 MIT
-=======
-# Text2Image-PyTorch
-A PyTorch implementation of the paper Generative Adversarial Text-to-Image Synthesis
->>>>>>> eeb7fd7fe488f5720600c9fee250b6386714be0d
