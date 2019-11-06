@@ -1,5 +1,7 @@
 # Text to Image Synthesis using Skip-thought Vectors
 
+**The code for this model has not been tested because of time constraints. All the steps have been given below to train/test the model. Feel free to create a pull request if anyone is interested in testing this model.**
+
 ## Description
 This is a PyTorch implementation of the paper Generative Adversarial Text-to-Image Synthesis [http://arxiv.org/abs/1605.05396] using skip thought vectors for caption embedding. This implementation is based on DCGAN. Below is the model architecture where blue bars represent skip thought vector for the captions.
 
@@ -13,7 +15,7 @@ Image Source : Paper
   * Theano
 
 ## Dataset
-  * This model has been trained on the flowers dataset. Download flower dataset from here[] and save the images in Data folder as Data/flowers.
+  * This model can be trained on the flowers dataset. Download flower dataset from here[] and save the images in Data folder as Data/flowers.
   * Now download the corresponding captions from here[]. After extracting, copy the text_c10 folder and paste it in Data folder as Data/text_c10.
 
 ## Skip-Thought Model
